@@ -1,0 +1,8 @@
+{
+  "ProjectName": "Splash Access FriendsMobileTesting",
+  "ProjectGuid": "769f0c92-b04b-45fe-bd36-25e52e9ec52d",
+  "projectVersion": 1,
+  "ProjectTypeGuids": "{6319b66f-8dff-4073-91be-3cd48a2fdeb3}",
+  "FrameworkVersion": "1.0",
+  "Framework": "MobileTesting"
+}
